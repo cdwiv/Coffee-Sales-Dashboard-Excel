@@ -22,7 +22,9 @@ This project transforms raw sales data into actionable insights, allowing stakeh
 **Project Structure**
 
 Coffee_Sales_Data.xlsx: The main workbook containing raw data.
+
 Coffee_Sales.xlsb: The final workbook containing edited data, processing sheets, and the final dashboard.
+
 coffee_sales_dashboard: Contains screenshots of the dashboard for quick preview.
 
 
